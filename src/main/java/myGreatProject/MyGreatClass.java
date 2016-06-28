@@ -14,5 +14,7 @@ public class MyGreatClass {
 		System.out.println(StringUtils.isEmpty(null));
 		System.out.println(StringUtils.isEmpty("kikou"));
 		System.out.println(StringUtils.isEmpty(""));
+		
+		// commentaire utile 
 	}
 }
